@@ -1,0 +1,19 @@
+﻿1.4.2 -> 1.4.3 Added trail renderer to the ball.
+					 Implemented [score += colCount + 1]
+					 Moved Refill code to its own script so it's independent from PlayerShoot
+					 Changed  refillCD to a dynamic slider so we can change it depending on balancing issues.
+
+1.4.3 -> 1.4.4 Added respawn and damage functionalities.
+				     Added red flash when local player takes damage.
+
+1.4.4 -> 1.4.5 Ammo Pickup synced properly.
+					Each players scores are displayed on the upper right corner with the local players score colored in red.
+					Bugged score counter was fixed.
+1.4.5 -> 1.4.6 Added end game.
+					Fixed the gliding bug.
+					Now the player with the highest score is colored in blue.
+					Tidied up some code.
+					On death screen effect added.
+					Added a new mesh and a new texture for Refill Stations.
+					Added a couple more ammo pickups.
+					Reduced the amount of fuel used while thrusting and running.
