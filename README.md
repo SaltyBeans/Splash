@@ -1,2 +1,4 @@
 # Splash
-A different take on Multiplayer FPS. Made in Unity.
+A different take on Multiplayer FPS. 
+
+Made in Unity.
